@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ I’ve been creating bugs since 2015, when I began my journey at [HTL Leonding](https://www.htl-leonding.at).<br><br>🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on mobile and web development.<br><br>👨🏻‍💻 I’m actively improving my first published app, RGBle, a color-guessing game available on the App Store.<br><br>📚 Deepening my expertise in Swift while applying skills from completing the [ThreeJS Journey](https://threejs-journey.com) course. I'm also planning to explore Firebase to enhance my backend knowledge.</p>
+✨ I’ve been creating bugs since 2015, when I began my journey at [HTL Leonding](https://www.htl-leonding.at).
+
+🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on mobile and web development.
+
+👨🏻‍💻 I’m actively improving my first published app, RGBle, a color-guessing game available on the App Store.
+
+📚 Deepening my expertise in Swift while applying skills from completing the [ThreeJS Journey](https://threejs-journey.com) course. I'm also planning to explore Firebase to enhance my backend knowledge.
 
 ###
 
