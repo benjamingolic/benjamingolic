@@ -12,7 +12,7 @@
 
 ✨ I’ve been creating bugs since 2015, when I began my journey at [HTL Leonding](https://www.htl-leonding.at).
 
-🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on mobile and web development.
+🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on iOS development.
 
 👨🏻‍💻 I’m actively improving my first published app, RGBle, a color-guessing game available on the App Store.
 
