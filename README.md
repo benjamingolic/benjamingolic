@@ -10,7 +10,7 @@
 
 ###
 
-✨ I’ve been creating bugs since 2015, when I began my journey in the IT - Media Technology department at [HTL Leonding](https://www.htl-leonding.at/en/), where I graduated.
+✨ I’ve been creating bugs since 2016, when I began my journey in the IT - Media Technology department at [HTL Leonding](https://www.htl-leonding.at/en/), where I graduated.
 
 🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on iOS development.
 
