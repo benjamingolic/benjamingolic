@@ -14,11 +14,11 @@
 
 🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on iOS development.
 
-👨🏻‍💻 I’m actively improving my first published app, RGBle, a color-guessing game available on the App Store.
+👨🏻‍💻 I’m actively improving my first published app, [RGBle](https://apps.apple.com/app/rgble-color-guessing-game/id6474759152), a color-guessing game available on the App Store.
 
-📚 Deepening my expertise in Swift while applying skills from completing the [ThreeJS Journey](https://threejs-journey.com) course. I'm also planning to explore Firebase to enhance my backend knowledge.
+📚 Currently working on my Bachelor thesis and developing the project [SpotHopper](https://github.com/benjamingolic/SpotHopper), which I plan to release on the App Store in 2025. 
 
-📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/benjamin-golić-b1aa63207/) for any inquiries or collaboration opportunities.
+🏆 I’ve completed the [ThreeJS Journey](https://threejs-journey.com) and am now focused on mastering **SwiftUI** through the [SwiftUI Masterclass Course](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) on Udemy.
 
 ###
 
@@ -28,6 +28,8 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -40,6 +42,10 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
