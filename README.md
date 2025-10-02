@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Benjamin Golić and I'm a iOS and Web Developer, based in Linz, Austria.</p>
+<p align="left">
+  I'm <b>Benjamin Golić</b> — an iOS & Web Developer based in Linz, Austria.<br/>
+  Graduated with a B.Sc. in [Mobile Computing](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor) (FH Hagenberg, 2025).  
+  Now leveling up with the M.Sc. in [Mobile Computing](https://fh-ooe.at/en/degree-programs/mobile-computing-master) at FH Hagenberg.
+</p>
 
 ###
 
@@ -12,11 +16,9 @@
 
 ✨ I’ve been creating bugs since 2016, when I began my journey in the IT - Media Technology department at [HTL Leonding](https://www.htl-leonding.at/en/), where I graduated.
 
-🎓 Now pursuing a Bachelor's in [Mobile Computing at FH Hagenberg](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor), with a focus on iOS development.
+🎓 For my Bachelor’s thesis I built <b>SpotHopper</b>, a mobile venue recommender with a custom ML model (TensorFlow ➜ TFLite), slate-based ranking, embeddings, and Firebase ML deployment.  
 
-👨🏻‍💻 I’m actively improving my first published app, [RGBle](https://apps.apple.com/app/rgble-color-guessing-game/id6474759152), a color-guessing game available on the App Store.
-
-📚 Currently working on my Bachelor thesis and developing the project [SpotHopper](https://github.com/benjamingolic/SpotHopper), which I plan to release on the App Store in 2025. 
+📱 I designed, built, and shipped a color-guessing game from scratch: <b>RGBle</b> — available on the App Store.  
 
 🏆 I’ve completed the [ThreeJS Journey](https://threejs-journey.com) and am now focused on mastering **SwiftUI** through the [SwiftUI Masterclass Course](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) on Udemy.
 
