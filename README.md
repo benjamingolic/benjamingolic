@@ -4,8 +4,8 @@
 
 <p align="left">
   I'm <b>Benjamin Golić</b> — an iOS & Web Developer based in Linz, Austria.<br/>
-  Graduated with a B.Sc. in [Mobile Computing](https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor) (FH Hagenberg, 2025).  
-  Now leveling up with the M.Sc. in [Mobile Computing](https://fh-ooe.at/en/degree-programs/mobile-computing-master) at FH Hagenberg.
+  Graduated with a B.Sc. in <a href="https://fh-ooe.at/en/degree-programs/mobile-computing-bachelor">Mobile Computing</a> (FH Hagenberg, 2025).<br/>
+  Now leveling up with the M.Sc. in <a href="https://fh-ooe.at/en/degree-programs/mobile-computing-master">Mobile Computing</a> at FH Hagenberg.
 </p>
 
 ###
